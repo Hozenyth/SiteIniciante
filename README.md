@@ -5,7 +5,7 @@ Nesse projeto foi feito um site nível iniciante para uma modelo de divulgação
 <br>
 Links do site:
 
-<a href="Pagina principal.html">HOME</a> |  
+<a href="Pagina Principal.html">HOME</a> |  
 <a href="Biografia.html">BIOGRAFIA</a> |  
 <a href="Campanhas.html">CAMPANHAS PUBLICITÁRIAS</a> | <br>
 <a href="Contato.html">CONTATO</a> |
